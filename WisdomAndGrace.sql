@@ -56,8 +56,8 @@ INSERT INTO [UserProfile]
 VALUES
   (1, '4oULyNuszpUGbNkTqGS0T8Iqs1L2', 'Foo Barington', 'foo@bar.com', 1),
   (2, 'vP3tkzRXWmRzwSLGwNTBS5fJs2N2', 'Bar Bazaar', 'bar@baz.com', 2),
-  (3, 'eD1ALWos2rg1fTh8RYJqjmywwN83', Perd Hapley, 2 ),
-  (4, 'bZ7cM75MI0QHF2IE8TC4lvnZkg03', Jeremy Jam, 2);
+  (3, 'mxcUzLgQROcSES3gGzNaPzaCDbv2', 'Bubba Sparxx', 'a@a.com', 1 ),
+  (4,  'rBjVI5NTFIaQ2I1Lowgps9mSal23', 'Linda Hamilton', 'b@b.com', 2);
 SET IDENTITY_INSERT [UserProfile] OFF
 
 
